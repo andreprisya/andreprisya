@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreprisya
-- 👀 I’m interested in Web Programming & Cyber Security
+- 👀 I’m interested in Web Developing & Cyber Security
 - 🌱 I’m currently learning Intermediate Programming
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me andreprisyalubis@gmail.com
